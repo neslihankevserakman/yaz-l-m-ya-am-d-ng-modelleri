@@ -1,1 +1,1 @@
-# yaz-l-m-ya-am-d-ng-modelleri
+# Yazılım Yaşam Döngü Modelleri
